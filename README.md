@@ -34,7 +34,7 @@ Explore additional resources to deepen your understanding of Git and GitHub:
 
 ## License
 
-The content in this repository is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the content for any purpose, provided you give appropriate credit to the original author(s) and the repository.
+The content in this repository is licensed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/). You are free to use, modify, and distribute the content for any purpose without any restrictions.
 
 ---
 
